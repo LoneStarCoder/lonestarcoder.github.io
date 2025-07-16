@@ -1,4 +1,4 @@
-[Home](https://example.com/home) | [Blog](https://example.com/blog) | [Articles](https://example.com/articles) | [Profile](https://example.com/profile) | [Links](https://example.com/links)
+[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles) | [Profile](https://example.com/profile) | [Links](https://example.com/links)
 
 # Brody Kilpatrick - lonestarcoder.github.io
 My name is Brody Kilpatrick, my Github profile is Lone Star Coder. I am currently employed as Senior Architect - Security and Compliance. See more of my profile here. Last Updated: 2025-07-11
