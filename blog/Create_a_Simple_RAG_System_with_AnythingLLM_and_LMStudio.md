@@ -1,5 +1,5 @@
 # Create a Simple RAG System with AnythingLLM and LMStudio
-*Author: Brody Kilpatrick*
+*Author: Brody Kilpatrick* | *Created: October 9, 2025*
 ## Summary
 
 This beginner-friendly tutorial guides you through building a local Retrieval-Augmented Generation (RAG) system without writing code. You'll learn to set up your own AI assistant that can answer questions based on your documents, running entirely on your own hardware for complete privacy and control.
