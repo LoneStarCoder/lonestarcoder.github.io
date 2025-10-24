@@ -3,6 +3,7 @@
 * This is NOT a Secure Server. It is an open relay that will receive an email from anywhere and send it to anywhere.
 * This guide assumes you already have an upstream smart host or server that the relay is going to send email to.
 * If you do not, follow the instructions to create a simple IIS SMTP Windows Server, or just create your own, or just Google. Or don't create anything, you can still validate Postfix works without it.
+* This is a primer. There might be a part 2 around securing and additonal configuration.
 
 ## This server is designed to demonstrate:
 * The Simplest Possible postfix relay configuration for someone who has never installed it.
@@ -190,3 +191,8 @@ Received: from ls.local (ubuntu01 [192.168.0.10])
 	by rhpostfix1.ls.local (Postfix) with ESMTP id AD551305D936
 	for <testr@ls.local>; Fri, 24 Oct 2025 13:21:17 -0500 (CDT)
 ```
+
+# Some References
+* https://www.redhat.com/en/blog/install-configure-postfix
+* https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/8/html/deploying_different_types_of_servers/assembly_mail-transport-agent_deploying-different-types-of-servers
+* https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/system_administrators_guide/ch-mail_servers
