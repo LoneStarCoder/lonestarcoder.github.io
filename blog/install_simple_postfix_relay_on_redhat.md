@@ -30,14 +30,12 @@ But, if you still want some instuctions, then do this:
 ### Set the Red Hat Host Name
 Run the following commands and reboot
 ```
-sudo nmcli general hostname rhpostfix1.local
+sudo nmcli general hostname rhpostfix1.ls.local
 reboot
 ```
 
-### Set the Red Hat IP Address
-
 ### Open Firewall Ports
-Firewall ports needed for SMTP Port 25
+Firewall ports needed for SMTP Port 25, assuming the internal zone, which is fine if the client computer (in my case ubuntu01) is on the same subnet.
 ```
 sudo firewall-cmd --permanent --zone=internal --add-port=25/tcp
 sudo firewall-cmd --reload
@@ -58,7 +56,7 @@ Backup main.cf
 ```
 sudo cp /etc/postfix/main.cf /etc/postfix/main.cf.bak
 ```
-Open main.cf for editing with nano
+Open main.cf for editing with nano.
 ```
 sudo nano /etc/postfix/main.cf
 ```
@@ -78,11 +76,11 @@ Using the reference below, add, uncomment, or verify each of the lines in the fi
 sudo nano /etc/postfix/header_checks
 ```
 #### This is a summary of the specific settings that we set in /etc/postfix/header_checks
-This value is at the bottom of the file, and is the only value that is not a Comment (#).
+This value is at the bottom of the file, and is the only value that is not a Comment (#). It basically same if received, then add the header.
 * /^Received:/i PREPEND AUTH-X: mysecretkey
 
 ### Restart Postfix
-After editing the files, we need to reload postfix
+After editing the files, we need to reload postfix.
 ```
 sudo systemctl restart postfix
 ```
@@ -93,6 +91,8 @@ sudo postfix check
 Just check for errors.
 
 ### Send a Test Email using Telnet
+There are other options to send test email, but this removes any abstraction layers, so you know that you are communicating with postfix.
+I ran this command from my client ubuntu01, which is on the same subnet as rhpostfix1.ls.local.
 ```
 telnet 192.168.0.149 25
 ```
@@ -144,7 +144,7 @@ QUIT
 #221 2.0.0 Bye
 ```
 ### View the Postfix Logs
-You don't have to use tail, use whatever you want, but the logs are usually here. You should see information about the message you sent, and attempting to deliver.
+You don't have to use tail, use whatever you want, but the logs are usually here. You should see information about the message you sent, and is now attempting to deliver.
 ```
 sudo tail -f /var/log/maillog
 ```
@@ -161,7 +161,7 @@ Oct 24 13:21:46 rhpostfix1 postfix/smtp[3942]: AD551305D936: to=<testr@ls.local>
 
 ```
 ### View Queued Messages
-If the messages are still queued, because maybe you don't have an upstream server, you can view the local queue.
+If the messages are still queued, because maybe you don't have an upstream server, you can view the local queue. I turned off my upstream server so that they would queue here, which is why you see No route to host.
 ```
 mailq
 ```
