@@ -8,6 +8,9 @@ Houston, Texas, United States
 
 **Contact:** [brodykilpatrick@gmail.com](mailto:brodykilpatrick@gmail.com) · [LinkedIn](https://www.linkedin.com/in/brody-kilpatrick-b21393389/) · [GitHub](https://github.com/LoneStarCoder)
 
+## Primary Focus
+**Securely on-boarding AI.** I lead the IT Technical AI Governance program at TPC Group - building the policies, lifecycle controls, risk-based assessments, and architecture reviews that let generative AI, LLMs, and AI agents get adopted without becoming the next unmanaged identity or data-exfiltration path. That covers non-human identities, service principals, OAuth and secrets management, privileged access, logging/monitoring, and keeping a human in the loop, on top of the more traditional Zero Trust, IAM, and vulnerability management work.
+
 ## Top Skills
 Automation · Root Cause Analysis (RCA) · Process Automation
 
