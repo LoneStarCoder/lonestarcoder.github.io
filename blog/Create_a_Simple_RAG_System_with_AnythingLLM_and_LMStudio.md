@@ -1,3 +1,8 @@
+---
+permalink: /blog/Create_a_Simple_RAG_System_with_AnythingLLM_and_LMStudio
+---
+[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
+
 # Create a Simple RAG System with AnythingLLM and LMStudio
 *Author: Brody Kilpatrick* | *Created: October 9, 2025*
 ## Summary

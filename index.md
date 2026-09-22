@@ -1,3 +1,7 @@
+---
+layout: none
+permalink: /
+---
 [Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 
 # Brody Kilpatrick - lonestarcoder.github.io

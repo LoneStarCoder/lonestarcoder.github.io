@@ -1,3 +1,8 @@
+---
+permalink: /articles/mDNS_LLMNR_NBT-NS_AttackSurface
+---
+[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
+
 # The Name Resolution Trinity: mDNS, LLMNR & NBT-NS Attack Surface
 
 ## How legacy protocols create a perfect storm for credential theft and network compromise
