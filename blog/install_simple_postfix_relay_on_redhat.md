@@ -4,6 +4,7 @@ permalink: /blog/install_simple_postfix_relay_on_redhat
 ---
 [Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # How to install a simple postfix relay on Red Hat Linux
+*Author: Brody Kilpatrick* | *Created: October 24, 2025*
 ## Important Notes
 * This is NOT a Secure Server. It is an open relay that will receive an email from anywhere and send it to anywhere.
 * This guide assumes you already have an upstream smart host or server that the relay is going to send email to.
