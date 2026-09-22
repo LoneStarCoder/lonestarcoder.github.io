@@ -3,7 +3,6 @@ layout: default
 permalink: /blog/install_simple_postfix_relay_on_redhat
 ---
 [Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
-
 # How to install a simple postfix relay on Red Hat Linux
 ## Important Notes
 * This is NOT a Secure Server. It is an open relay that will receive an email from anywhere and send it to anywhere.

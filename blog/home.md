@@ -2,7 +2,7 @@
 layout: default
 permalink: /blog/home
 ---
-[Home](https://lonestarcoder.github.io) | **[Blog](https://lonestarcoder.github.io/blog/home)** | [Articles](https://lonestarcoder.github.io/articles)
+[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Blog Home
 ## [Create a Simple RAG System with AnythingLLM and LMStudio](https://lonestarcoder.github.io/blog/Create_a_Simple_RAG_System_with_AnythingLLM_and_LMStudio)
 ***October 9, 2025***
