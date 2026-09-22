@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/query-all-service-manager-enums-and-their-hierarchy
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Query ALL Service Manager ENUMS and their Hierarchy
 *Author: Brody Kilpatrick* | *Created: April 22, 2014*
 

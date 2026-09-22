@@ -2,14 +2,58 @@
 layout: default
 permalink: /
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
-# Brody Kilpatrick - lonestarcoder.github.io
+# Brody Kilpatrick
+Senior Architect - IT Security and Compliance at TPC Group. Houston, Texas.
+
 My name is Brody Kilpatrick, my Github profile is Lone Star Coder (https://github.com/LoneStarCoder). I am currently employed as Senior Architect - Security and Compliance. I have historically performed various levels of sysadmin, application, and automation work. This website contains many years of my blog posts consolidated into a single site. For any blog post that was either written or aided by AI, I add a comment or disclaimer.
 
-## Latest Blog Post
+Read more about my background and full work history on the **[About page](https://lonestarcoder.github.io/about)**.
+
+<div class="stat-row">
+  <div><span class="stat-num">137</span><span class="stat-label">blog posts</span></div>
+  <div><span class="stat-num">2010-2025</span><span class="stat-label">years covered</span></div>
+  <div><span class="stat-num">3</span><span class="stat-label">old blogs consolidated here</span></div>
+  <div><span class="stat-num">20+</span><span class="stat-label">years in IT</span></div>
+</div>
+
+## Topics I Write About
+<div class="topic-tags">
+<span>SCSM / Service Manager</span>
+<span>SCOM</span>
+<span>PowerShell</span>
+<span>Exchange</span>
+<span>SQL</span>
+<span>SCCM</span>
+<span>Security &amp; Firewalls</span>
+<span>WSUS</span>
+<span>Skype / Lync</span>
+<span>Networking</span>
+<span>AI / LLMs</span>
+<span>Linux</span>
+</div>
+
+## Recent Blog Posts
 [How to install a simple postfix relay on Red Hat Linux](https://lonestarcoder.github.io/blog/install_simple_postfix_relay_on_redhat)
 > A primer on setting up the simplest possible Postfix relay on Red Hat Linux, including adding a custom mail header to every message that traverses the relay.
 > ***October 24, 2025***
+
+[Create a Simple RAG System with AnythingLLM and LMStudio](https://lonestarcoder.github.io/blog/Create_a_Simple_RAG_System_with_AnythingLLM_and_LMStudio)
+> This beginner-friendly tutorial guides you through building a local Retrieval-Augmented Generation (RAG) system without writing code, running entirely on your own hardware for complete privacy and control.
+> ***October 9, 2025***
+
+[Query Windows Firewall Rules ONLY from GPO](https://lonestarcoder.github.io/blog/query-windows-firewall-rules-only-from-gpo)
+> A PowerShell script that will only retrieve firewall rules that were created via an Active Directory GPO or the local security policy.
+> ***August 18, 2022***
+
+[Make the Windows Defender Firewall Log Useful with PowerShell](https://lonestarcoder.github.io/blog/make-the-windows-defender-firewall-log-useful)
+> A small PowerShell script to parse the Windows Firewall log into an array.
+> ***August 16, 2022***
+
+[Some Notes on Exchange 2019 and Preparing AD](https://lonestarcoder.github.io/blog/some-notes-on-exchange-2019-and-preparing-ad)
+> Notes from recent experience preparing AD for Exchange 2019 and the commands used, since the official documentation was incomplete.
+> ***October 15, 2021***
+
+See the **[full list of 137 posts](https://lonestarcoder.github.io/blog/home)**.
 
 ## Latest Article / Document
 [The Name Resolution Trinity: mDNS, LLMNR & NBT-NS Attack Surface](https://lonestarcoder.github.io/articles/mDNS_LLMNR_NBT-NS_AttackSurface).

@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/my-first-look-at-network-monitoring-in-a-real-environment
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # My First Look at Network Monitoring in a Real Environment
 *Author: Brody Kilpatrick* | *Created: January 17, 2012*
 

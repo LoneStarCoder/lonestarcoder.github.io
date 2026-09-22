@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/home
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Blog Home
 ## [How to install a simple postfix relay on Red Hat Linux](https://lonestarcoder.github.io/blog/install_simple_postfix_relay_on_redhat)
 ***October 24, 2025***

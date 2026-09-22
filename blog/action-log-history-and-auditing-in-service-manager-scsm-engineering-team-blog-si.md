@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/action-log-history-and-auditing-in-service-manager-scsm-engineering-team-blog-si
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Action Log, History, and Auditing in Service Manager - SCSM Engineering Team Blog - Site Home - TechNet Blogs
 *Author: Brody Kilpatrick* | *Created: October 10, 2011*
 

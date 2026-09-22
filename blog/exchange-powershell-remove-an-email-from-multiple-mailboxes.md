@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/exchange-powershell-remove-an-email-from-multiple-mailboxes
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Exchange PowerShell - Remove an Email from Multiple Mailboxes
 *Author: Brody Kilpatrick* | *Created: June 11, 2019*
 

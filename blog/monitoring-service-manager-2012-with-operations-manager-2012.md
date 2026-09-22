@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/monitoring-service-manager-2012-with-operations-manager-2012
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Monitoring Service Manager 2012 with Operations Manager 2012
 *Author: Brody Kilpatrick* | *Created: November 16, 2012*
 

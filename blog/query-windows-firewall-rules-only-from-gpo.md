@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/query-windows-firewall-rules-only-from-gpo
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Query Windows Firewall Rules ONLY from GPO
 *Author: Brody Kilpatrick* | *Created: August 18, 2022*
 

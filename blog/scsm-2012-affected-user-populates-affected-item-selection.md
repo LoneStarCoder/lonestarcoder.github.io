@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/scsm-2012-affected-user-populates-affected-item-selection
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # SCSM 2012 - Affected User Populates Affected Item Selection
 *Author: Brody Kilpatrick* | *Created: February 14, 2012*
 

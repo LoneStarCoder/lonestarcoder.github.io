@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/get-moverequeststatistics-staus-completed-or-not-completed
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Get-MoveRequestStatistics staus completed or not completed
 *Author: Brody Kilpatrick* | *Created: February 23, 2018*
 

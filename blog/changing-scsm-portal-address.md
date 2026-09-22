@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/changing-scsm-portal-address
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Changing SCSM Portal Address
 *Author: Brody Kilpatrick* | *Created: July 11, 2011*
 

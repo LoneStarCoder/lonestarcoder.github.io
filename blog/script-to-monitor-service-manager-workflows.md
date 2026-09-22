@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/script-to-monitor-service-manager-workflows
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Script to Monitor Service Manager Workflows
 *Author: Brody Kilpatrick* | *Created: December 27, 2018*
 

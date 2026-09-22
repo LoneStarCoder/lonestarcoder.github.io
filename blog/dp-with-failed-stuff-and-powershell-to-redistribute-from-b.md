@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/dp-with-failed-stuff-and-powershell-to-redistribute-from-b
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # DP With Failed Stuff and PowerShell to Redistribute (From B)
 *Author: Brody Kilpatrick* | *Created: July 29, 2019*
 

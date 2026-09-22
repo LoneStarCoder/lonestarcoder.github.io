@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/attaching-email-screenshots-with-service-manager
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Attaching Email Screenshots with Service Manager
 *Author: Brody Kilpatrick* | *Created: June 27, 2011*
 

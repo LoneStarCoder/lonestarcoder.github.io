@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/delete-files-in-directory
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Delete Files in Directory
 *Author: Brody Kilpatrick* | *Created: June 11, 2019*
 

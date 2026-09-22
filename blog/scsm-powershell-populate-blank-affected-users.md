@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/scsm-powershell-populate-blank-affected-users
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # SCSM PowerShell - Populate Blank Affected Users
 *Author: Brody Kilpatrick* | *Created: April 18, 2019*
 

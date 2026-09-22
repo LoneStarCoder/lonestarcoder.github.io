@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/scsm-powershell-reassign-all-work-items-to-another-user
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # SCSM PowerShell - Reassign All Work Items to Another User
 *Author: Brody Kilpatrick* | *Created: April 26, 2019*
 

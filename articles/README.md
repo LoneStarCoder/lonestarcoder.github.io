@@ -2,7 +2,6 @@
 layout: default
 permalink: /articles
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Articles
 
 ### [The Name Resolution Trinity: mDNS, LLMNR & NBT-NS Attack Surface](https://lonestarcoder.github.io/articles/mDNS_LLMNR_NBT-NS_AttackSurface).

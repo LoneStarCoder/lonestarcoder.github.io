@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/here-are-some-useful-scsm-datamart-views
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Here are some useful SCSM DataMart Views
 *Author: Brody Kilpatrick* | *Created: August 29, 2011*
 

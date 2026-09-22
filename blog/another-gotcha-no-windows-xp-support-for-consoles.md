@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/another-gotcha-no-windows-xp-support-for-consoles
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Another Gotcha - No Windows XP Support for Consoles
 *Author: Brody Kilpatrick* | *Created: October 24, 2011*
 

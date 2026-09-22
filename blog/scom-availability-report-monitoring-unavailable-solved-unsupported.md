@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/scom-availability-report-monitoring-unavailable-solved-unsupported
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # SCOM Availability Report Monitoring Unavailable SOLVED (Unsupported)
 *Author: Brody Kilpatrick* | *Created: February 27, 2013*
 

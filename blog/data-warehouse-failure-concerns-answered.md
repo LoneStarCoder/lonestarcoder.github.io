@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/data-warehouse-failure-concerns-answered
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Data warehouse failure concerns answered
 *Author: Brody Kilpatrick* | *Created: June 28, 2011*
 

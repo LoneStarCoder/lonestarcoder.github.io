@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/service-manager-performance
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Service Manager Performance
 *Author: Brody Kilpatrick* | *Created: December 29, 2010*
 

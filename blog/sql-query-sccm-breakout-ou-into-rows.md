@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/sql-query-sccm-breakout-ou-into-rows
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # SQL Query - SCCM Breakout OU into Rows
 *Author: Brody Kilpatrick* | *Created: April 17, 2019*
 

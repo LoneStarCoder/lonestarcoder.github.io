@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/all-management-servers-resource-pool-unavailable-hack-fix
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # All Management Servers Resource Pool Unavailable Hack/Fix
 *Author: Brody Kilpatrick* | *Created: December 31, 2012*
 

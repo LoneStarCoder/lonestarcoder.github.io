@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/move-the-database-in-service-manager-2010
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Move the database in Service Manager 2010
 *Author: Brody Kilpatrick* | *Created: May 7, 2011*
 

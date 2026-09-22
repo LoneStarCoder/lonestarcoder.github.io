@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/some-notes-on-exchange-2019-and-preparing-ad
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Some Notes on Exchange 2019 and Preparing AD
 *Author: Brody Kilpatrick* | *Created: October 15, 2021*
 

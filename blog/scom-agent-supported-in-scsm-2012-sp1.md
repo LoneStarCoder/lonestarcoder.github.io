@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/scom-agent-supported-in-scsm-2012-sp1
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # SCOM Agent Supported in SCSM 2012 SP1
 *Author: Brody Kilpatrick* | *Created: January 15, 2013*
 

@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/scsm-script-set-ma-to-in-progress
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # SCSM Script - Set MA to In Progress
 *Author: Brody Kilpatrick* | *Created: June 11, 2019*
 

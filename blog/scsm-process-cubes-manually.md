@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/scsm-process-cubes-manually
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # SCSM - Process Cubes Manually
 *Author: Brody Kilpatrick* | *Created: November 2, 2016*
 

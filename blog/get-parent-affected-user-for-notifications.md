@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/get-parent-affected-user-for-notifications
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Get Parent Affected User for Notifications
 *Author: Brody Kilpatrick* | *Created: February 13, 2014*
 

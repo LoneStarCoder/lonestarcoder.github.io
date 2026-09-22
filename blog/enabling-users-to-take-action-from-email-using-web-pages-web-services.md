@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/enabling-users-to-take-action-from-email-using-web-pages-web-services
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Enabling Users to Take Action from Email Using Web Pages/Web Services
 *Author: Brody Kilpatrick* | *Created: January 31, 2011*
 

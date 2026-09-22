@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/notes-regarding-scsm-2012-upgrade
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Notes Regarding SCSM 2012 Upgrade
 *Author: Brody Kilpatrick* | *Created: January 15, 2013*
 

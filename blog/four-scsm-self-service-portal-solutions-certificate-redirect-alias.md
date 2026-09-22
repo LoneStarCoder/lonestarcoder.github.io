@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/four-scsm-self-service-portal-solutions-certificate-redirect-alias
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Four SCSM Self-Service Portal Solutions (certificate, redirect, alias)
 *Author: Brody Kilpatrick* | *Created: July 20, 2011*
 

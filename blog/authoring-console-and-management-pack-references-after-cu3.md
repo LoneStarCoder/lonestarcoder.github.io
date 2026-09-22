@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/authoring-console-and-management-pack-references-after-cu3
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Authoring Console and Management Pack References after CU3
 *Author: Brody Kilpatrick* | *Created: November 24, 2010*
 

@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/exchange-powershell-add-mailbox-permissions
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Exchange Powershell - Add Mailbox Permissions
 *Author: Brody Kilpatrick* | *Created: April 17, 2019*
 

@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/vbscript-call-web-service
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # vbscript - call web service
 *Author: Brody Kilpatrick* | *Created: April 11, 2011*
 

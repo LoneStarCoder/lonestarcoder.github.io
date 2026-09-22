@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/create-distribution-list
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Create Distribution List
 *Author: Brody Kilpatrick* | *Created: March 26, 2019*
 

@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/great-article-on-how-to-install-windows-deployment-services
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Great Article on How to Install Windows Deployment Services
 *Author: Brody Kilpatrick* | *Created: March 17, 2011*
 

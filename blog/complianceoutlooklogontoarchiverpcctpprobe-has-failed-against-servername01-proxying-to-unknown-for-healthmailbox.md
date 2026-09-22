@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/complianceoutlooklogontoarchiverpcctpprobe-has-failed-against-servername01-proxying-to-unknown-for-healthmailbox
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # ComplianceOutlookLogonToArchiveRpcCtpProbe has failed against servername01 proxying to Unknown for healthmailbox
 *Author: Brody Kilpatrick* | *Created: August 16, 2019*
 

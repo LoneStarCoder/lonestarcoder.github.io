@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/troubleshooting-operations-manager-alert-connector
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Troubleshooting Operations Manager Alert Connector
 *Author: Brody Kilpatrick* | *Created: November 22, 2010*
 

@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/microsoft-authorization-manager-hotfix-is-not-need-for-server-2008-r2-with-sp1
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Microsoft Authorization Manager Hotfix is not Need for Server 2008 R2 with SP1
 *Author: Brody Kilpatrick* | *Created: June 13, 2011*
 

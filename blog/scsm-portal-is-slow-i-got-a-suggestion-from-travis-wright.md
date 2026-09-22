@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/scsm-portal-is-slow-i-got-a-suggestion-from-travis-wright
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # SCSM Portal is Slow - I got a suggestion from Travis Wright
 *Author: Brody Kilpatrick* | *Created: February 6, 2011*
 

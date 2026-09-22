@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/new-system-center-service-manager-blog
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # New System Center Service Manager Blog
 *Author: Brody Kilpatrick* | *Created: November 22, 2010*
 

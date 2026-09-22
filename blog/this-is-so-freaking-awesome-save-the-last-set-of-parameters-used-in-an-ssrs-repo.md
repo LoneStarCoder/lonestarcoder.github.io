@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/this-is-so-freaking-awesome-save-the-last-set-of-parameters-used-in-an-ssrs-repo
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # This is so freaking awesome...Save the last set of parameters used in an SSRS report
 *Author: Brody Kilpatrick* | *Created: May 27, 2011*
 

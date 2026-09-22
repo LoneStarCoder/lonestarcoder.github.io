@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/pay-close-attention-to-the-minimum-software-requirements
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Pay Close Attention to the Minimum Software Requirements!!!
 *Author: Brody Kilpatrick* | *Created: October 24, 2011*
 

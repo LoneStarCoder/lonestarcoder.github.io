@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/how-to-change-the-listening-port-for-remote-desktop
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # How to change the listening port for Remote Desktop
 *Author: Brody Kilpatrick* | *Created: March 18, 2011*
 

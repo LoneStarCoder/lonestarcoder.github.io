@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/e-mail-user-from-service-manager-console-scsm-engineering-team-blog-site-home-te
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # E-mail user from Service Manager Console - SCSM Engineering Team Blog - Site Home - TechNet Blogs
 *Author: Brody Kilpatrick* | *Created: December 6, 2010*
 

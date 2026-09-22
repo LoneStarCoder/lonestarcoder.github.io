@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/enterprise-ca-how-to-create-a-scom-certificate-template
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Enterprise CA: How to create a SCOM Certificate template.
 *Author: Brody Kilpatrick* | *Created: March 12, 2011*
 

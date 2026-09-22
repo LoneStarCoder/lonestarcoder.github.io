@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/net-4-before-iis
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # .NET 4 BEFORE IIS
 *Author: Brody Kilpatrick* | *Created: October 24, 2011*
 

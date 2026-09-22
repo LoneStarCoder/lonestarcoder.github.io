@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/scom-adding-alert-context-to-emails
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # SCOM - Adding Alert Context to Emails
 *Author: Brody Kilpatrick* | *Created: February 19, 2015*
 

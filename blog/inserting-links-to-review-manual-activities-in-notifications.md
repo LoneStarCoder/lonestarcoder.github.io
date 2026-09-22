@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/inserting-links-to-review-manual-activities-in-notifications
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Inserting links to Review/Manual Activities in notifications.
 *Author: Brody Kilpatrick* | *Created: March 1, 2011*
 

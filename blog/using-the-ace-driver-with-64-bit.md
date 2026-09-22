@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/using-the-ace-driver-with-64-bit
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Using the ACE Driver with 64 bit
 *Author: Brody Kilpatrick* | *Created: January 14, 2011*
 

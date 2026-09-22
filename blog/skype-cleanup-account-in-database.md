@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/skype-cleanup-account-in-database
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Skype - Cleanup Account in Database
 *Author: Brody Kilpatrick* | *Created: May 24, 2019*
 

@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/service-manager-role-based-security-scoping
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Service Manager role based security scoping
 *Author: Brody Kilpatrick* | *Created: June 12, 2011*
 

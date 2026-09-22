@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/tip-approve-all-in-progress-activities-in-service-manager
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Tip: Approve all In Progress Activities in Service Manager
 *Author: Brody Kilpatrick* | *Created: September 3, 2014*
 

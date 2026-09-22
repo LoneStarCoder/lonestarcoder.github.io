@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/bulk-user-creation-from-powershell
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Bulk User Creation from Powershell
 *Author: Brody Kilpatrick* | *Created: January 2, 2011*
 

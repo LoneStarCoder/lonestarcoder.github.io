@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/create-and-assign-service-manager-incidents-directly-from-scom-on-demand
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Create and Assign Service Manager Incidents Directly from SCOM on Demand
 *Author: Brody Kilpatrick* | *Created: May 3, 2013*
 

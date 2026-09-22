@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/fill-incidents-using-only-the-keyboard
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Fill Incidents using only the Keyboard
 *Author: Brody Kilpatrick* | *Created: December 30, 2010*
 

@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/warming-up-ssrs
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Warming Up SSRS
 *Author: Brody Kilpatrick* | *Created: March 17, 2011*
 

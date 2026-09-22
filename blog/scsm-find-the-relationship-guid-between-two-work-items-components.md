@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/scsm-find-the-relationship-guid-between-two-work-items-components
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # SCSM Find the Relationship GUID between two Work Items Components
 *Author: Brody Kilpatrick* | *Created: February 2, 2012*
 

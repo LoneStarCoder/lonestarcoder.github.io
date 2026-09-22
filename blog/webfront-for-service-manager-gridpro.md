@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/webfront-for-service-manager-gridpro
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # WebFront for Service Manager « Gridpro
 *Author: Brody Kilpatrick* | *Created: May 26, 2011*
 

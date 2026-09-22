@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/service-manager-find-subscriptions-that-are-missing-templates
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Service Manager - Find subscriptions that are missing Templates
 *Author: Brody Kilpatrick* | *Created: December 27, 2018*
 

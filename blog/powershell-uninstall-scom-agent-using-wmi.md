@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/powershell-uninstall-scom-agent-using-wmi
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # PowerShell - Uninstall SCOM Agent Using WMI
 *Author: Brody Kilpatrick* | *Created: July 12, 2019*
 

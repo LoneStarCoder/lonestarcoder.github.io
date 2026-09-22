@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/workflow-performance-management-packs-on-the-media-to-help-performance
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Workflow Performance - Management Packs on the media to help Performance
 *Author: Brody Kilpatrick* | *Created: December 29, 2010*
 

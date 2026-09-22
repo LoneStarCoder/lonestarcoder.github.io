@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/resolve-scom-alerts-from-a-list
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Resolve SCOM Alerts from a List
 *Author: Brody Kilpatrick* | *Created: March 8, 2021*
 

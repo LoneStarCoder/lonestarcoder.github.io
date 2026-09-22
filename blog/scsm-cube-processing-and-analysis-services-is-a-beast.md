@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/scsm-cube-processing-and-analysis-services-is-a-beast
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # SCSM Cube Processing and Analysis Services is a Beast
 *Author: Brody Kilpatrick* | *Created: July 11, 2012*
 

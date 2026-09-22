@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/scsm-workflow-date-time-token-error-in-the-authoring-console
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # SCSM Workflow Date Time Token Error in the Authoring Console
 *Author: Brody Kilpatrick* | *Created: October 25, 2011*
 

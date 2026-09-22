@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/configuring-guest-internet-access
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Configuring Guest Internet Access
 *Author: Brody Kilpatrick* | *Created: January 2, 2011*
 

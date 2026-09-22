@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/service-manager-database-tour-useful-queries
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Service Manager Database Tour & Useful Queries
 *Author: Brody Kilpatrick* | *Created: March 18, 2011*
 

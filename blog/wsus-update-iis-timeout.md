@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/wsus-update-iis-timeout
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # WSUS - Update IIS Timeout
 *Author: Brody Kilpatrick* | *Created: May 11, 2021*
 

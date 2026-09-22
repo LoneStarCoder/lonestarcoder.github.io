@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/scom-2012-upgrade-acs-schema-does-not-update
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # SCOM 2012 Upgrade ACS Schema does not Update
 *Author: Brody Kilpatrick* | *Created: July 19, 2013*
 

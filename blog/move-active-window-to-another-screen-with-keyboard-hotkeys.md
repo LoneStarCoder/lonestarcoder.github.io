@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/move-active-window-to-another-screen-with-keyboard-hotkeys
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Move Active Window to Another Screen with Keyboard Hotkeys
 *Author: Brody Kilpatrick* | *Created: June 27, 2019*
 

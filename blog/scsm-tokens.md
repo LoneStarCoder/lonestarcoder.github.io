@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/scsm-tokens
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # SCSM Tokens
 *Author: Brody Kilpatrick* | *Created: October 25, 2011*
 

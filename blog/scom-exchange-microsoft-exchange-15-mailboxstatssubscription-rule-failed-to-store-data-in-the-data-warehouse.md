@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/scom-exchange-microsoft-exchange-15-mailboxstatssubscription-rule-failed-to-store-data-in-the-data-warehouse
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # SCOM Exchange Microsoft.Exchange.15.MailboxStatsSubscription.Rule Failed to store data in the Data Warehouse
 *Author: Brody Kilpatrick* | *Created: December 27, 2018*
 

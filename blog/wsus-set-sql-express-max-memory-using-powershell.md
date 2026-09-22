@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/wsus-set-sql-express-max-memory-using-powershell
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # WSUS - Set SQL Express Max Memory using Powershell
 *Author: Brody Kilpatrick* | *Created: March 17, 2021*
 

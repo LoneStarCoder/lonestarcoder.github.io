@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/exchange-connector-3-0-rc-released-system-center-service-manager-engineering-tea
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Exchange Connector 3.0 RC Released! - System Center: Service Manager Engineering Team Blog - Site Home - TechNet Blogs
 *Author: Brody Kilpatrick* | *Created: April 20, 2012*
 

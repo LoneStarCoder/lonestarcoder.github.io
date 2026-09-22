@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/extracting-stored-procedure-content-via-sql
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Extracting stored procedure content via SQL
 *Author: Brody Kilpatrick* | *Created: March 30, 2011*
 

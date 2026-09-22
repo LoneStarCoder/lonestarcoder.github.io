@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/how-to-install-scdpm
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # How to install SCDPM
 *Author: Brody Kilpatrick* | *Created: January 8, 2011*
 

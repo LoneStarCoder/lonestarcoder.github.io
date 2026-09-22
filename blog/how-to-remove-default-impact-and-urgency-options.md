@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/how-to-remove-default-impact-and-urgency-options
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # How To Remove Default Impact and Urgency Options
 *Author: Brody Kilpatrick* | *Created: July 8, 2011*
 

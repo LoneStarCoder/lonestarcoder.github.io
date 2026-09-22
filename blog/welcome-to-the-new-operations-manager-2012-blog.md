@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/welcome-to-the-new-operations-manager-2012-blog
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Welcome to the new Operations Manager 2012 Blog
 *Author: Brody Kilpatrick* | *Created: October 24, 2011*
 

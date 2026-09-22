@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/sql-query-sccm-breakout-ou-into-columns
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # SQL Query - SCCM Breakout OU into Columns
 *Author: Brody Kilpatrick* | *Created: April 17, 2019*
 

@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/how-to-obtain-a-certificate-using-windows-server-2008-enterprise-ca-in-operation
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # How to Obtain a Certificate Using Windows Server 2008 Enterprise CA in Operations Manager 2007
 *Author: Brody Kilpatrick* | *Created: March 14, 2011*
 

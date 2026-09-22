@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/export-all-unsealed-mps
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Export all unsealed MPs
 *Author: Brody Kilpatrick* | *Created: February 8, 2011*
 

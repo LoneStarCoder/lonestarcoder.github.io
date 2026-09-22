@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/create-quest-event-o-pedia-online-event-search-view-in-scom
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Create Quest Event-o-Pedia Online Event Search View in SCOM
 *Author: Brody Kilpatrick* | *Created: January 17, 2013*
 

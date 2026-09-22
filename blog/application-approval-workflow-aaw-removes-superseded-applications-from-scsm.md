@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/application-approval-workflow-aaw-removes-superseded-applications-from-scsm
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Application Approval Workflow (AAW) Removes Superseded Applications from SCSM
 *Author: Brody Kilpatrick* | *Created: November 9, 2016*
 

@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/scsm-service-request-don-t-use-a-single-review-activity
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # SCSM Service Request - Don't use a Single Review Activity
 *Author: Brody Kilpatrick* | *Created: March 27, 2012*
 

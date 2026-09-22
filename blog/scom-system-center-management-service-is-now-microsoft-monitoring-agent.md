@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/scom-system-center-management-service-is-now-microsoft-monitoring-agent
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # SCOM System Center Management Service is now Microsoft Monitoring Agent
 *Author: Brody Kilpatrick* | *Created: November 13, 2013*
 

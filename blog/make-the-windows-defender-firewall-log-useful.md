@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/make-the-windows-defender-firewall-log-useful
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Make the Windows Defender Firewall Log Useful with PowerShell
 *Author: Brody Kilpatrick* | *Created: August 16, 2022*
 

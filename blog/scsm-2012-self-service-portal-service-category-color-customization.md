@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/scsm-2012-self-service-portal-service-category-color-customization
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # SCSM 2012: Self Service Portal Service category color customization
 *Author: Brody Kilpatrick* | *Created: September 3, 2013*
 

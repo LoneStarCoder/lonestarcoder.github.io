@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/notifications-not-working-in-scom-2012
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Notifications not working in SCOM 2012
 *Author: Brody Kilpatrick* | *Created: January 27, 2012*
 

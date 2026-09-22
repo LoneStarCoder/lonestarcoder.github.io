@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/scsm-command-shell
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # SCSM Command Shell
 *Author: Brody Kilpatrick* | *Created: November 29, 2010*
 

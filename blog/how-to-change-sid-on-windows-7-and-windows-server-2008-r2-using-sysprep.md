@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/how-to-change-sid-on-windows-7-and-windows-server-2008-r2-using-sysprep
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # How to change SID on Windows 7 and Windows Server 2008 R2 using sysprep
 *Author: Brody Kilpatrick* | *Created: January 2, 2011*
 

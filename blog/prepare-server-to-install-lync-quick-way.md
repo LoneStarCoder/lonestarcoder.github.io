@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/prepare-server-to-install-lync-quick-way
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Prepare Server to Install Lync - Quick Way
 *Author: Brody Kilpatrick* | *Created: January 12, 2017*
 

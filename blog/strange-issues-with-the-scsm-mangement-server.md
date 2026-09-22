@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/strange-issues-with-the-scsm-mangement-server
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Strange issues with the SCSM Mangement Server
 *Author: Brody Kilpatrick* | *Created: February 13, 2011*
 

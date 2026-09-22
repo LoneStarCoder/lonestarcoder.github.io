@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/how-to-delete-items-from-the-incident-classification-list
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # How to delete items from the Incident Classification LIST?
 *Author: Brody Kilpatrick* | *Created: July 25, 2011*
 

@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/isolating-powershell-sessions-in-workflows-in-service-manager
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Isolating Powershell Sessions in Workflows in Service Manager
 *Author: Brody Kilpatrick* | *Created: July 23, 2013*
 

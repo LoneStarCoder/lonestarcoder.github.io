@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/scom-query-notification-subscription-data-via-sql
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # SCOM - Query Notification Subscription Data via SQL
 *Author: Brody Kilpatrick* | *Created: February 5, 2015*
 

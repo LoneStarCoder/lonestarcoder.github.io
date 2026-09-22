@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/a-few-scsm-customizatin-links
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # A few SCSM Customizatin links
 *Author: Brody Kilpatrick* | *Created: February 2, 2011*
 

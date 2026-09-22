@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/backing-up-management-packs-when-they-re-modified
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Backing up Management packs when they're modified
 *Author: Brody Kilpatrick* | *Created: August 6, 2011*
 

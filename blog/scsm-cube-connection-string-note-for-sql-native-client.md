@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/scsm-cube-connection-string-note-for-sql-native-client
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # SCSM Cube Connection String Note for SQL Native Client
 *Author: Brody Kilpatrick* | *Created: November 2, 2016*
 

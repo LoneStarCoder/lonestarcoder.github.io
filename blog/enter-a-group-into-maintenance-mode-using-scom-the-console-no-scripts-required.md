@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/enter-a-group-into-maintenance-mode-using-scom-the-console-no-scripts-required
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Enter a Group into Maintenance Mode using SCOM the Console (No Scripts Required)
 *Author: Brody Kilpatrick* | *Created: February 22, 2013*
 

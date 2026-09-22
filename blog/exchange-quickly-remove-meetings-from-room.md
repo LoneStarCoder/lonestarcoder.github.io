@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/exchange-quickly-remove-meetings-from-room
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Exchange - Quickly Remove Meetings From Room
 *Author: Brody Kilpatrick* | *Created: June 25, 2019*
 

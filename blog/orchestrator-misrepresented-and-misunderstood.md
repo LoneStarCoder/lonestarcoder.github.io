@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/orchestrator-misrepresented-and-misunderstood
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Orchestrator - Misrepresented and Misunderstood
 *Author: Brody Kilpatrick* | *Created: August 1, 2014*
 

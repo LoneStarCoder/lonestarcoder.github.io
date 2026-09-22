@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/sharepoint-surveys-with-scsm
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # SharePoint Surveys with SCSM
 *Author: Brody Kilpatrick* | *Created: February 6, 2011*
 

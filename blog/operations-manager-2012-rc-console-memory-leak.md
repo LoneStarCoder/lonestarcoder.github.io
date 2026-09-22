@@ -2,7 +2,6 @@
 layout: default
 permalink: /blog/operations-manager-2012-rc-console-memory-leak
 ---
-[Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
 # Operations Manager 2012 RC Console Memory Leak
 *Author: Brody Kilpatrick* | *Created: January 27, 2012*
 
