@@ -11,6 +11,20 @@ Houston, Texas, United States
 ## Top Skills
 Automation · Root Cause Analysis (RCA) · Process Automation
 
+*(LinkedIn's endorsed top skills, above. Broken out by area below, based on my actual work history.)*
+
+**Security & Compliance:** Enterprise Security Architecture · Zero Trust · Identity & Access Management · Vulnerability Management · Threat Hunting · Incident Response · SIEM / EDR (CrowdStrike Falcon, Microsoft Defender) · PKI · AI Security & AI Governance · IT/OT Cybersecurity · Compliance & Audit Support
+
+**Automation & Scripting:** PowerShell · VBScript · System Center Orchestrator · Runbook Development
+
+**Microsoft Infrastructure:** SCOM · SCCM · SCSM (Service Manager) · Active Directory · Entra ID · Exchange (Server & Online) · Group Policy · WSUS
+
+**Monitoring & Observability:** SolarWinds Orion · Elastic Stack · SCOM Management Pack Development · SNMP / Syslog Monitoring · Capacity & Availability Reporting
+
+**Data & Reporting:** SQL Server · SSRS · SSIS · Power BI
+
+**Cloud & Modern Workplace:** Microsoft 365 · Azure · Entra ID
+
 ## Certifications
 - CompTIA Security+
 - CompTIA Network+
