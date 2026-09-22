@@ -1,4 +1,5 @@
 ---
+layout: default
 permalink: /articles/mDNS_LLMNR_NBT-NS_AttackSurface
 ---
 [Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)

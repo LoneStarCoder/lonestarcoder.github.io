@@ -1,4 +1,5 @@
 ---
+layout: default
 permalink: /blog/install_simple_postfix_relay_on_redhat
 ---
 [Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)

@@ -1,4 +1,5 @@
 ---
+layout: default
 permalink: /blog/Create_a_Simple_RAG_System_with_AnythingLLM_and_LMStudio
 ---
 [Home](https://lonestarcoder.github.io) | [Blog](https://lonestarcoder.github.io/blog/home) | [Articles](https://lonestarcoder.github.io/articles)
