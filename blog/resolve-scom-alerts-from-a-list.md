@@ -156,4 +156,4 @@ SQL Server Agent Windows Stopped
 
 **Output Example:**
 
-![](https://brodykilpatrickblog.wordpress.com/wp-content/uploads/2021/03/scriptexoutput.png?w=797)
+![](/assets/blog/scriptexoutput.png)

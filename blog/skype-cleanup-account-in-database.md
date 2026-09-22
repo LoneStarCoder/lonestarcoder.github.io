@@ -6,7 +6,7 @@ permalink: /blog/skype-cleanup-account-in-database
 # Skype - Cleanup Account in Database
 *Author: Brody Kilpatrick* | *Created: May 24, 2019*
 
-![](https://brodykilpatrickblog.wordpress.com/wp-content/uploads/2019/05/skypecantsignin.jpg?w=447)
+![](/assets/blog/skypecantsignin.jpg)
 
 Recently, I spent some time troubleshooting a sign-in issue for one of our Skype for Business users. The account was a re-hire account, therefore it had previously existed and then had been deleted from Skype for Business. Once the person was rehired, the account was re-created in Skype, but the account would not log in.
 

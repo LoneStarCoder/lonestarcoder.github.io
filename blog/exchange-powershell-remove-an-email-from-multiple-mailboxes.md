@@ -10,7 +10,7 @@ Quickly remove a specific email from multiple mailboxes.
 
 Create a list of emails and store in a text file
 
-![](https://brodykilpatrickblog.wordpress.com/wp-content/uploads/2019/06/emails.png?w=203)
+![](/assets/blog/emails.png)
 
 Open the Exchange Command Shell
 

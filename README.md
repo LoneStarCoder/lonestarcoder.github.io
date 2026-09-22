@@ -21,4 +21,4 @@ Brody Kilpatrick Blog (WordPress) has been fully consolidated into the [Blog](ht
 There is more history, but some have been abandoned.
 
 # Images / Graphics / Memes
-<img src="https://brodykilpatrickblog.wordpress.com/wp-content/uploads/2019/06/wordswag_1559673699741.png" width="200">
+<img src="/assets/blog/wordswag_1559673699741.png" width="200">

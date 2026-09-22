@@ -69,4 +69,4 @@ order by B.Name, A.DPName, A.PackageID, [Status], [PS]
 Then run the ones in questions in powershell on the sccm
 server
 
-![](https://brodykilpatrickblog.wordpress.com/wp-content/uploads/2019/07/dprefreshscreenshot.jpg)
+![](/assets/blog/dprefreshscreenshot.jpg)

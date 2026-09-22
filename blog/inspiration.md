@@ -6,4 +6,4 @@ permalink: /blog/inspiration
 # Inspiration
 *Author: Brody Kilpatrick* | *Created: June 14, 2019*
 
-![](https://brodykilpatrickblog.wordpress.com/wp-content/uploads/2019/06/wordswag_1559673699741.png)
+![](/assets/blog/wordswag_1559673699741.png)
