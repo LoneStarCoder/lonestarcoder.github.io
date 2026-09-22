@@ -14,9 +14,7 @@ My name is Brody Kilpatrick, my Github profile is Lone Star Coder. I am currentl
 > ***July 11, 2025***
 
 # Past Blogs
-[Operation Manager 2012 - Blogspot](https://operationsmanager2012.blogspot.com) - not yet consolidated here.
-
-Brody Kilpatrick Blog (WordPress) has been fully consolidated into the [Blog](https://lonestarcoder.github.io/blog/home) on this site.
+Brody Kilpatrick Blog (WordPress) and the IT-related posts from my Blogger blogs (Operations Manager 2012, System Center Service Manager, Brody's IT Tasks, and my main Brody Kilpatrick blog) have all been consolidated into the [Blog](https://lonestarcoder.github.io/blog/home) on this site.
 
 There is more history, but some have been abandoned.
 
