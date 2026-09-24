@@ -12,6 +12,10 @@ Read more about my background and full work history on the **[About page](https:
 **Topics I write about:** SCSM / Service Manager, SCOM, PowerShell, Exchange, SQL, SCCM, Security & Firewalls, WSUS, Skype / Lync, Networking, AI / LLMs, Linux
 
 ## Recent Blog Posts
+[Powershell Script to Get Copilot Package Registry](https://lonestarcoder.github.io/blog/powershell_script_Get-CopilotPackageRegistry)
+<img width="1799" height="188" alt="image" src="https://github.com/user-attachments/assets/271bcaa9-cb02-4f20-bb6b-de46be778b2c" />
+> ***September 24, 2026***
+
 [How to install a simple postfix relay on Red Hat Linux](https://lonestarcoder.github.io/blog/install_simple_postfix_relay_on_redhat)
 > A primer on setting up the simplest possible Postfix relay on Red Hat Linux, including adding a custom mail header to every message that traverses the relay.
 > ***October 24, 2025***
