@@ -15,7 +15,7 @@ Read more about my background and full work history on the **[About page](https:
 > ***October 24, 2025***
 
 [Powershell Script to Get Copilot Package Registry](https://lonestarcoder.github.io/blog/powershell_script_Get-CopilotPackageRegistry)
-<img width="1799" height="188" alt="image" src="https://github.com/user-attachments/assets/271bcaa9-cb02-4f20-bb6b-de46be778b2c" />
+<img alt="image" src="https://github.com/user-attachments/assets/271bcaa9-cb02-4f20-bb6b-de46be778b2c" />
 > ***September 24, 2026***
 
 [Create a Simple RAG System with AnythingLLM and LMStudio](https://lonestarcoder.github.io/blog/Create_a_Simple_RAG_System_with_AnythingLLM_and_LMStudio)
