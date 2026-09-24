@@ -3,6 +3,11 @@ layout: default
 permalink: /blog/home
 ---
 # Blog Home
+## [Powershell Script to Get Copilot Package Registry](https://lonestarcoder.github.io/blog/powershell_script_Get-CopilotPackageRegistry)
+***September 24, 2026***
+> <img width="1799" height="188" alt="image" src="https://github.com/user-attachments/assets/271bcaa9-cb02-4f20-bb6b-de46be778b2c" />
+
+
 ## [How to install a simple postfix relay on Red Hat Linux](https://lonestarcoder.github.io/blog/install_simple_postfix_relay_on_redhat)
 ***October 24, 2025***
 > A primer on setting up the simplest possible Postfix relay on Red Hat Linux, including adding a custom mail header to every message that traverses the relay.
