@@ -9,33 +9,14 @@ My name is Brody Kilpatrick, my Github profile is Lone Star Coder (https://githu
 
 Read more about my background and full work history on the **[About page](https://lonestarcoder.github.io/about)**.
 
-<div class="stat-row">
-  <div><span class="stat-num">137</span><span class="stat-label">blog posts</span></div>
-  <div><span class="stat-num">2010-2025</span><span class="stat-label">years covered</span></div>
-  <div><span class="stat-num">3</span><span class="stat-label">old blogs consolidated here</span></div>
-  <div><span class="stat-num">20+</span><span class="stat-label">years in IT</span></div>
-</div>
-
-## Topics I Write About
-<div class="topic-tags">
-<span>SCSM / Service Manager</span>
-<span>SCOM</span>
-<span>PowerShell</span>
-<span>Exchange</span>
-<span>SQL</span>
-<span>SCCM</span>
-<span>Security &amp; Firewalls</span>
-<span>WSUS</span>
-<span>Skype / Lync</span>
-<span>Networking</span>
-<span>AI / LLMs</span>
-<span>Linux</span>
-</div>
-
 ## Recent Blog Posts
 [How to install a simple postfix relay on Red Hat Linux](https://lonestarcoder.github.io/blog/install_simple_postfix_relay_on_redhat)
 > A primer on setting up the simplest possible Postfix relay on Red Hat Linux, including adding a custom mail header to every message that traverses the relay.
 > ***October 24, 2025***
+
+[Powershell Script to Get Copilot Package Registry](https://lonestarcoder.github.io/blog/powershell_script_Get-CopilotPackageRegistry)
+<img width="1799" height="188" alt="image" src="https://github.com/user-attachments/assets/271bcaa9-cb02-4f20-bb6b-de46be778b2c" />
+> ***September 24, 2026***
 
 [Create a Simple RAG System with AnythingLLM and LMStudio](https://lonestarcoder.github.io/blog/Create_a_Simple_RAG_System_with_AnythingLLM_and_LMStudio)
 > This beginner-friendly tutorial guides you through building a local Retrieval-Augmented Generation (RAG) system without writing code, running entirely on your own hardware for complete privacy and control.
