@@ -5,4 +5,4 @@ It is interactive login, so if you wanted to automate it, you would need to swti
 Use the below link to get to the script.
 https://github.com/LoneStarCoder/PowerScriptsRepo/blob/main/M365/Get-CopilotPackageRegistry.ps1 
 
-<img width="1799" height="188" alt="image" src="https://github.com/user-attachments/assets/271bcaa9-cb02-4f20-bb6b-de46be778b2c" />
+<img alt="image" src="https://github.com/user-attachments/assets/271bcaa9-cb02-4f20-bb6b-de46be778b2c" />
