@@ -10,21 +10,21 @@ My name is Brody Kilpatrick, my Github profile is Lone Star Coder (https://githu
 Read more about my background and full work history on the **[About page](https://lonestarcoder.github.io/about)**.
 
 ## Recent Blog Posts
+[Here is a very quick and easy way to check which version of PHP a public website is presenting](https://lonestarcoder.github.io/blog/php2shell_easy_check_against_public_website)
+> Use `curl.exe -k -I -L` to inspect response headers from a public site and quickly identify the exposed PHP version.
+> ***October 26, 2026***
+ 
 [How to install a simple postfix relay on Red Hat Linux](https://lonestarcoder.github.io/blog/install_simple_postfix_relay_on_redhat)
 > A primer on setting up the simplest possible Postfix relay on Red Hat Linux, including adding a custom mail header to every message that traverses the relay.
 > ***October 24, 2025***
 
-[Powershell Script to Get Copilot Package Registry](https://lonestarcoder.github.io/blog/powershell_script_Get-CopilotPackageRegistry)
-<img alt="image" src="https://github.com/user-attachments/assets/271bcaa9-cb02-4f20-bb6b-de46be778b2c" />
-> ***September 24, 2026***
-
-[Here is a very quick and easy way to check which version of PHP a public website is presenting](https://lonestarcoder.github.io/blog/php2shell_easy_check_against_public_website)
-> Use `curl.exe -k -I -L` to inspect response headers from a public site and quickly identify the exposed PHP version.
-> ***October 26, 2026***
-
 [Create a Simple RAG System with AnythingLLM and LMStudio](https://lonestarcoder.github.io/blog/Create_a_Simple_RAG_System_with_AnythingLLM_and_LMStudio)
 > This beginner-friendly tutorial guides you through building a local Retrieval-Augmented Generation (RAG) system without writing code, running entirely on your own hardware for complete privacy and control.
 > ***October 9, 2025***
+
+[Powershell Script to Get Copilot Package Registry](https://lonestarcoder.github.io/blog/powershell_script_Get-CopilotPackageRegistry)
+<img alt="image" src="https://github.com/user-attachments/assets/271bcaa9-cb02-4f20-bb6b-de46be778b2c" />
+> ***September 24, 2026***
 
 [Query Windows Firewall Rules ONLY from GPO](https://lonestarcoder.github.io/blog/query-windows-firewall-rules-only-from-gpo)
 > A PowerShell script that will only retrieve firewall rules that were created via an Active Directory GPO or the local security policy.
