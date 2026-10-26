@@ -5,7 +5,7 @@ permalink: /
 # Brody Kilpatrick
 Senior Architect - IT Security and Compliance at TPC Group. Houston, Texas.
 
-My name is Brody Kilpatrick, my Github profile is Lone Star Coder (https://github.com/LoneStarCoder). I am currently employed as Senior Architect - Security and Compliance. I have historically performed various levels of sysadmin, application, and automation work. This website contains many years of my blog posts consolidated into a single site. For any blog post that was either written or aided by AI, I add a comment or disclaimer.
+My name is Brody Kilpatrick, my Github profile is Lone Star Coder (https://github.com/LoneStarCoder). I am currently employed as Senior Architect - Security and Compliance. I have historically performed tasks mostly related to identity, architecture, server administration, firewalls, and process.
 
 Read more about my background and full work history on the **[About page](https://lonestarcoder.github.io/about)**.
 
@@ -17,6 +17,10 @@ Read more about my background and full work history on the **[About page](https:
 [Powershell Script to Get Copilot Package Registry](https://lonestarcoder.github.io/blog/powershell_script_Get-CopilotPackageRegistry)
 <img alt="image" src="https://github.com/user-attachments/assets/271bcaa9-cb02-4f20-bb6b-de46be778b2c" />
 > ***September 24, 2026***
+
+[Here is a very quick and easy way to check which version of PHP a public website is presenting](https://lonestarcoder.github.io/blog/php2shell_easy_check_against_public_website)
+> Use `curl.exe -k -I -L` to inspect response headers from a public site and quickly identify the exposed PHP version.
+> ***October 26, 2026***
 
 [Create a Simple RAG System with AnythingLLM and LMStudio](https://lonestarcoder.github.io/blog/Create_a_Simple_RAG_System_with_AnythingLLM_and_LMStudio)
 > This beginner-friendly tutorial guides you through building a local Retrieval-Augmented Generation (RAG) system without writing code, running entirely on your own hardware for complete privacy and control.
@@ -38,11 +42,11 @@ See the **[full list of 137 posts](https://lonestarcoder.github.io/blog/home)**.
 
 ## Latest Article / Document
 [The Name Resolution Trinity: mDNS, LLMNR & NBT-NS Attack Surface](https://lonestarcoder.github.io/articles/mDNS_LLMNR_NBT-NS_AttackSurface).
-> The combination of mDNS, LLMNR, and NBT-NS creates a devastating attack surface that allows adversaries to poison name resolution, capture credentials, and establish persistence in enterprise networks. Recent threat intelligence shows these protocols are increasingly targeted in sophisticated attack campaigns, with attackers leveraging automated tools to exploit all three protocols simultaneously. (written by ai)
+> The combination of mDNS, LLMNR, and NBT-NS creates a devastating attack surface that allows adversaries to poison name resolution, capture credentials, and establish persistence in enterprise networks.
 > ***July 11, 2025***
 
 # Past Blogs
-Brody Kilpatrick Blog (WordPress) and the IT-related posts from my Blogger blogs (Operations Manager 2012, System Center Service Manager, Brody's IT Tasks, and my main Brody Kilpatrick blog) have all been consolidated into the [Blog](https://lonestarcoder.github.io/blog/home) on this site.
+Brody Kilpatrick Blog (WordPress) and the IT-related posts from my Blogger blogs (Operations Manager 2012, System Center Service Manager, Brody's IT Tasks, and my main Brody Kilpatrick blog) have all been imported into this static site.
 
 There is more history, but some have been abandoned.
 
